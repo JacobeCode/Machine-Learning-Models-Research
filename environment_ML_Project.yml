@@ -1,0 +1,16 @@
+name: environment_ML_Project
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - pip
+  - ipykernel
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - optuna
+  - lightgbm
+  - librosa
+  - pandas
+  - pysoundfile
