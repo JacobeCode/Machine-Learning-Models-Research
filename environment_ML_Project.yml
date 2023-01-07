@@ -5,12 +5,14 @@ channels:
   - defaults
 dependencies:
   - pip
-  - ipykernel
-  - numpy
-  - scikit-learn
-  - matplotlib
-  - optuna
-  - lightgbm
-  - librosa
-  - pandas
-  - pysoundfile
+  - pip:
+    - ipykernel
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - optuna
+    - lightgbm
+    - librosa
+    - pandas
+    - pysoundfile
+    - regex
