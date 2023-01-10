@@ -7,6 +7,9 @@ With VS Code required ipykernel-extension.
 Library used and credits : *https://www.kaggle.com/datasets/anubhavchhabra/drum-kit-sound-samples*
 
 Second database used in project:
+
+https://www.upf.edu/web/mtg/irmas
+
 With thanks for possibility of free use of IRMAS dataset:
 
 Bosch, J. J., Janer, J., Fuhrmann, F., & Herrera, P. “A Comparison of Sound Segregation Techniques for Predominant Instrument Recognition in Musical Audio Signals”, in Proc. ISMIR (pp. 559-564), 2012
