@@ -1,4 +1,4 @@
-name: environment_ML_Project
+name: requirements
 channels:
   - conda-forge
   - anaconda
