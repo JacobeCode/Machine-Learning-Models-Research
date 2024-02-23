@@ -20,9 +20,7 @@ With VS Code required ipykernel-extension.
 
 Library used and credits : *https://www.kaggle.com/datasets/anubhavchhabra/drum-kit-sound-samples*
 
-Second database used in project:
-
-https://www.upf.edu/web/mtg/irmas
+Second database used in project: *https://www.upf.edu/web/mtg/irmas
 
 With thanks for possibility of free use of IRMAS dataset:
 
