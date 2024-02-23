@@ -1,17 +1,18 @@
-# Machine Learning - Models Research
+# Machine Learning - Models Research [Extra Trees + SVM]
+## Project was created in colaboration by Tymoteusz Macewicz and Jakub Gucik.
 
-This repository contains research connected to Machine Learning project classes.
-Repository contains:
+### Content
 
-- part of project created for ML classes [Extra Trees]
+This repository contains research connected to Machine Learning project classes done with cooperation with Tymoteusz Macewicz. The project is divided in three parts:
+- Extra Tress - done by Jakub Gucik - research, training and test of Extra Trees algorithm
+- SVM - done by Tymoteusz Macewicz - research, training and test of SVMs
+- report - done by both authors covering all performed tasks, experiments and results
 
-- report that contains description of research and final results. Two parts included - SVM and Extra Trees.
-
-### Project was created in colaboration with Tymoteusz Macewicz.
+The aim of this project was to examin two different algorithms/models in the task of audio classification - precisely classification of instruments.
 
 ### Requirements
 
-All libraries in YAML file.
+All libraries in requirements.yml file.
 
 With VS Code required ipykernel-extension.
 
