@@ -1,5 +1,5 @@
 # Machine Learning - Models Research [Extra Trees + SVM]
-## Project was created in colaboration by Tymoteusz Macewicz and Jakub Gucik.
+## This project was created in colaboration - by Tymoteusz Macewicz and Jakub Gucik.
 
 ### Content
 
