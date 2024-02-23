@@ -10,6 +10,10 @@ This repository contains research connected to Machine Learning project classes 
 
 The aim of this project was to examine two different algorithms/models in the task of audio classification - precisely classification of instruments.
 
+In this repository two main files can be found:
+- ExtraTreesPL.ipynb - script covering all the research connected with ExtraTrees with full description of conducted experiments and trainings
+- ReportPL.pdf - report summarizing project
+
 ### Requirements
 
 All libraries in requirements.yml file.
